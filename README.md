@@ -2,7 +2,7 @@
 
 ### Hi, I'm WinandaDev 👋
 
-A developer who is passionate about building web developers, exploring new technologies, and sharing creative ideas. If there is any problem with the website I created or if you have any suggestions, please contact me via email or social media.
+A developer passionate about building websites, exploring new technologies, and sharing creative ideas. If you have any issues with the websites I build or have any suggestions, please contact me via email or social media.
 
 📧 Email: winandabekul150@gmail.com
 
@@ -13,9 +13,7 @@ A developer who is passionate about building web developers, exploring new techn
 
 #### 💻 Skills :
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
 #### 🕹 Play games with me :
 
