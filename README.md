@@ -16,8 +16,8 @@
 
 ```
 Languages:    [ HTML, CSS, JavaScript, Python ]
-Framework:   [ TailwindCSS ]
-Database:    [ MySQL ]
+Framework:    [ TailwindCSS ]
+Database:     [ MySQL ]
 ```
 
 ### 🕹 Have fun with the game :
