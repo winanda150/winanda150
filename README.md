@@ -15,9 +15,9 @@
 ### 💻 Skills :
 
 ```
-Languages:    [ HTML, CSS, JavaScript, Python ]
-Framework:    [ TailwindCSS ]
-Database:     [ MySQL ]
+Languages: [ HTML, CSS, JavaScript, Python ]
+Framework: [ TailwindCSS ]
+Database:  [ MySQL ]
 ```
 
 ### 🕹 Have fun with the game :
