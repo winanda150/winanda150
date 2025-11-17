@@ -2,6 +2,8 @@
 
 ### Hi, I'm WinandaDev 👋
 
+<br>
+
 #### 🌐 Social Media :
 
 ![https://www.facebook.com/share/1JmDbe7gUS/](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![https://www.instagram.com/wiinaandaa_?igsh=Y2U3eW9sZTZkcm16](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.tiktok.com/@wiinaandaa_?_r=1&_t=ZS-91Sp05igLtR](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
@@ -12,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 
-### 🕹 Play games with me :
+#### 🕹 Play games with me :
 
 <br clear="both">
 
