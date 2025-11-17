@@ -2,7 +2,7 @@
 
 # Hi, I'm WinandaDev 👋
 
-A developer passionate about building websites, exploring new technologies, and sharing creative ideas. If you have any issues with a website I've created or have any suggestions, please contact me via email or social media.
+<p align="justify">A developer passionate about building websites, exploring new technologies, and sharing creative ideas. If you have any issues with a website I've created or have any suggestions, please contact me via email or social media.</p>
 
 📧 Email: winandabekul150@gmail.com
 
