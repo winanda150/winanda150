@@ -1,6 +1,5 @@
 ![Image](.github/workflows/readmebox.svg)
-
-## Hi, I'm WinandaDev 👋
+<h1 align="center">Hi 👋, I'm I Wayan Winanda</h1>
 
 <p align="justify">A developer passionate about building websites, exploring new technologies, and sharing creative ideas. If you have any issues with a website I've created or have any suggestions, please contact me via email or social media.</p>
 
