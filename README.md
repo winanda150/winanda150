@@ -27,7 +27,7 @@ Bagi saya, desain bukan hanya tentang tampilan, tetapi juga tentang bagaimana pe
 ```
 Languages:  [ HTML, CSS, JavaScript, Python ]
 Framework:  [ TailwindCSS, Bootstrap ]
-Library:    [ AOS Animation, GSAP ]
+Library:    [ AOS, GSAP, Swiper.js ]
 Database:   [ MySQL, Firebase ]
 ```
 
