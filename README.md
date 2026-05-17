@@ -1,7 +1,7 @@
 ![Image](.github/workflows/readmebox.svg)
 <h1 align="center">Hi 👋, I'm I Wayan Winanda</h1>
 
-<p align="justify">Saya adalah seorang mahasiswa Teknik Informatika yang memiliki minat besar di bidang Frontend Web Development.
+<p align="justify">Saya adalah seorang mahasiswa Teknik Informatika yang memiliki minat besar di bidang Frontend Web Development dari Bali, Indonesia.
 
 Saya senang membangun website dengan tampilan yang:
 
