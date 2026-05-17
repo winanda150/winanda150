@@ -1,7 +1,16 @@
 ![Image](.github/workflows/readmebox.svg)
 <h1 align="center">Hi 👋, I'm I Wayan Winanda</h1>
 
-<p align="justify">A developer passionate about building websites, exploring new technologies, and sharing creative ideas. If you have any issues with a website I've created or have any suggestions, please contact me via email or social media.</p>
+<p align="justify">Saya adalah seorang mahasiswa Teknik Informatika yang memiliki minat besar di bidang Frontend Web Development.
+
+Saya senang membangun website dengan tampilan yang:
+
+- modern  
+- responsif  
+- nyaman digunakan  
+- memiliki visual yang menarik  
+
+Bagi saya, desain bukan hanya tentang tampilan, tetapi juga tentang bagaimana pengguna merasakan pengalaman saat menggunakan website tersebut.</p>
 
 📧 Email: winandabekul150@gmail.com
 
