@@ -26,8 +26,8 @@ Bagi saya, desain bukan hanya tentang tampilan, tetapi juga tentang bagaimana pe
 
 ```
 Languages:  [ HTML, CSS, JavaScript, Python ]
-Framework:  [ TailwindCSS ]
-Database:   [ MySQL ]
+Framework:  [ TailwindCSS, Bootstrap ]
+Database:   [ MySQL, Firebase ]
 ```
 
 ### 🌐 Social Media :
