@@ -1,6 +1,12 @@
 ![Image](.github/workflows/readmebox.svg)
 <h1 align="center">Hi 👋, I'm I Wayan Winanda</h1>
 
+<div align="center">
+<img width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
+</div>
+
+<br>
+
 <p align="justify">Saya adalah seorang mahasiswa Teknik Informatika yang memiliki minat besar di bidang Frontend Web Development dari Bali, Indonesia.
 
 Saya senang membangun website dengan tampilan yang:
