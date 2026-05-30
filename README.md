@@ -1,9 +1,10 @@
 ![Image](.github/workflows/readmebox.svg)
+
 <h1 align="center">Hi 👋, I'm I Wayan Winanda</h1>
 
-<div align="center">
-<img width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"/>
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="900">
+</p>
 
 <br>
 
