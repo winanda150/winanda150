@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm I Wayan Winanda</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="900">
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500">
 </p>
 
 <br>
