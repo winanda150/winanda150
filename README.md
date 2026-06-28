@@ -6,8 +6,6 @@
   <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="500">
 </p>
 
-<br>
-
 <p align="justify">Saya adalah seorang mahasiswa Teknik Informatika yang memiliki minat besar di bidang Frontend Web Development dari Bali, Indonesia.
 
 Saya senang membangun website dengan tampilan yang:
